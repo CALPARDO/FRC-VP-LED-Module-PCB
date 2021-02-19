@@ -1,6 +1,6 @@
 # 3D View
-![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/a1.PNG?raw=true)
-<br />
+![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/a1.PNG?raw=true)<br />
+
 # 3D View Top
 ![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/top.PNG?raw=true)
 
