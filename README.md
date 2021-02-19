@@ -16,4 +16,6 @@ This is a LED Module for retroreflective tapes in FRC with 10mm LEDs and 100Ω r
 # How to use?
 ![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/vrmpng.PNG?raw=true)
 
-Just use voltage divider circuit like ![here]("http://www.learningaboutelectronics.com/images/Voltage-divider-example.png") to decrease voltage from 5V to 3V and plug the VCC and GND pins on VRM like in the picture.
+Just use voltage divider circuit like [here] to decrease voltage from 5V to 3V and plug the VCC and GND pins on VRM like in the picture.
+
+[here]: http://www.learningaboutelectronics.com/images/Voltage-divider-example.png
