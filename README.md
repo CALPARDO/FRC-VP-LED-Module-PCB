@@ -1,5 +1,5 @@
 # What is this?
-This is a LED Module for retroreflective tapes in FRC with 10mm LEDs and 100Ω resistors on 3V. If you want to use this module with VRM, you must decrease the voltage from 5V to 3V with 2 resistors or a voltage regulator. (5V 500mA pin on VRM)
+This is an LED Module for retroreflective tapes in FRC with 10mm LEDs and 150Ω resistors on 5V. Use 5V 500mA pins on VRM.
 
 # 3D View
 ![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/a1.PNG?raw=true)
@@ -15,7 +15,3 @@ This is a LED Module for retroreflective tapes in FRC with 10mm LEDs and 100Ω r
 
 # Usage
 ![alt text](https://github.com/CALPARDO/FRC-VP-LED-Module-PCB/blob/main/vrmpng.PNG?raw=true)
-
-Just use potential divider circuit like [here] to decrease voltage from 5V to 3V and plug the VCC and GND pins on VRM like in the picture.
-
-[here]: http://www.learningaboutelectronics.com/images/Voltage-divider-example.png
